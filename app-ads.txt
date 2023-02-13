@@ -2103,3 +2103,5 @@ algorix.co, 60322, RESELLER
 lkqd.net, 654, RESELLER
 pokkt.com, 7606, RESELLER
 triplelift.com, 8446, RESELLER
+#Admob
+google.com, pub-1933591656142280, DIRECT, f08c47fec0942fa0
